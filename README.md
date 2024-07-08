@@ -6,7 +6,7 @@
 - With **Cargo** you can use the following command in the terminal to install `boxd` so it can be used system-wide:  
 
 ```
-cargo install github.com/nik0-dev/boxd-rs
+cargo install --git github.com/nik0-dev/boxd-rs
 ```
 
 **Manual Install:**  
